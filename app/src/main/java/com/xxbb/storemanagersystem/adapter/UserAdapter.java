@@ -57,7 +57,7 @@ public class UserAdapter extends BaseAdapter {
             tvPower.setText("商品管理员");
         }
         if(user.get(position).getPower()==2){
-            tvPower.setText("出入库管理员");
+            tvPower.setText("出入");
         }
 
         return convertView;
