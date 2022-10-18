@@ -35,10 +35,9 @@
             android:layout_width="397dp"
             android:layout_height="wrap_content"
             android:layout_below="@+id/title_txt"
-            android:layout_marginTop="20px"
             android:layout_marginLeft="10px"
-            android:hint="请输入用户名"
-            />
+            android:layout_marginTop="20px"
+            android:hint="请输入用户名" />
 
         <EditText
             android:id="@+id/password_ed"

@@ -3,6 +3,10 @@
     package="com.xxbb.storemanagersystem">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <!--相机权限-->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <!--文件读取权限-->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
@@ -18,13 +22,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.UserOperatorActivity"></activity>
-        <activity android:name=".activity.UserInfoActivity"></activity>
-        <activity android:name=".activity.UserListActivity"></activity>
-        <activity android:name=".activity.UserInsertActivity"></activity>
-        <activity android:name=".activity.GoodsListActivity"></activity>
-        <activity android:name=".activity.RegisterActivity"></activity>
-        <activity android:name=".activity.GoodsOperatorActivity"></activity>
+        <activity android:name=".activity.UserOperatorActivity" />
+        <activity android:name=".activity.UserInfoActivity" />
+        <activity android:name=".activity.UserListActivity" />
+        <activity android:name=".activity.UserInsertActivity" />
+        <activity android:name=".activity.GoodsListActivity" />
+        <activity android:name=".activity.RegisterActivity" />
+        <activity android:name=".activity.GoodsOperatorActivity" />
         <activity android:name=".activity.GoodsInsertActivity" />
 
 

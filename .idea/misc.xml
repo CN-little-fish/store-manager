@@ -3,6 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/lx/android/store-manager/app/src/main/res/layout/activity_goods_add.xml" value="0.389945652173913" />
+        <entry key="..\:/lx/android/store-manager/app/src/main/res/layout/activity_goods_list.xml" value="0.389945652173913" />
+        <entry key="..\:/lx/android/store-manager/app/src/main/res/layout/activity_register.xml" value="0.389945652173913" />
+        <entry key="..\:/lx/android/store-manager/app/src/main/res/layout/activity_user_add.xml" value="0.389945652173913" />
+        <entry key="..\:/lx/android/store-manager/app/src/main/res/layout/activity_user_info.xml" value="0.389945652173913" />
+        <entry key="..\:/lx/android/store-manager/app/src/main/res/layout/activity_user_list.xml" value="0.389945652173913" />
+        <entry key="..\:/lx/android/store-manager/app/src/main/res/layout/activity_user_operator.xml" value="0.389945652173913" />
+        <entry key="..\:/lx/android/store-manager/app/src/main/res/layout/dialog_goods_export.xml" value="0.389945652173913" />
+        <entry key="..\:/lx/android/store-manager/app/src/main/res/layout/dialog_goods_import.xml" value="0.389945652173913" />
+        <entry key="..\:/lx/android/store-manager/app/src/main/res/layout/dialog_goods_search.xml" value="0.389945652173913" />
+        <entry key="..\:/lx/android/store-manager/app/src/main/res/layout/dialog_user_search.xml" value="0.389945652173913" />
+        <entry key="..\:/lx/android/store-manager/app/src/main/res/layout/goods_item.xml" value="0.389945652173913" />
+        <entry key="..\:/lx/android/store-manager/app/src/main/res/layout/user_item.xml" value="0.389945652173913" />
         <entry key="..\:/study/androdan/store-manager-system-master/app/src/main/res/layout/activity_goods_add.xml" value="0.24947916666666667" />
         <entry key="..\:/study/androdan/store-manager-system-master/app/src/main/res/layout/activity_goods_list.xml" value="0.24947916666666667" />
         <entry key="..\:/study/androdan/store-manager-system-master/app/src/main/res/layout/activity_goods_list_port.xml" value="0.24947916666666667" />
